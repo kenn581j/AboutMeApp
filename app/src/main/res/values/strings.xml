@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Kenneth</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Kenneth - Drak
+    \n\nUnderworlds blabla
+    \n\nKæreste blabla
+    \n\nsdfgdfgsdfg
+    \n\nsdfgdfgsdfg
+    \n\nsdfgdfgsdfg
+    \n\nsdfgdfgsdfg
+    \n\nsdfgdfgsdfg
+    \n\nsdfgdfgsdfg
+    \n\nsdfgdfgsdfg
+    \n\nsdfgdfgsdfg
+    \n\nsdfgdfgsdfg
+    \n\nsdfgdfgsdfg
+    \n\nsdfgdfgsdfg
+    \n\nEnd of Scrolling</string>
+    <string name="what_is_your_nick_name">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
